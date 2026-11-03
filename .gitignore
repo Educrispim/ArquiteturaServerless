@@ -1,0 +1,12 @@
+# target/
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Serverless
+.serverless/
+
